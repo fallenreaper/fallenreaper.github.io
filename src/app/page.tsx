@@ -33,7 +33,7 @@ export default function Home() {
           {/* Discord */}
           <a
             target="_blank"
-            href="https://discord.gg/w9DHWYGjN4"
+            href="https://discord.com/users/175384825962692608"
             rel="noopener noreferrer"
           >
             <button
